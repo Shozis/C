@@ -1,0 +1,5 @@
+﻿  lab2_1_2.cpp
+C:\Users\nikso\source\repos\lab2_1_2\lab2_1_2\lab2_1_2.cpp(22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\nikso\source\repos\lab2_1_2\lab2_1_2\lab2_1_2.cpp(24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\nikso\source\repos\lab2_1_2\lab2_1_2\lab2_1_2.cpp(50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab2_1_2.vcxproj -> C:\Users\nikso\source\repos\lab2_1_2\Debug\lab2_1_2.exe
