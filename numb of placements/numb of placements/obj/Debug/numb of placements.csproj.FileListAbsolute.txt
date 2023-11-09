@@ -1,0 +1,10 @@
+C:\Users\nikso\source\repos\numb of placements\numb of placements\bin\Debug\numb of placements.exe.config
+C:\Users\nikso\source\repos\numb of placements\numb of placements\bin\Debug\numb of placements.exe
+C:\Users\nikso\source\repos\numb of placements\numb of placements\bin\Debug\numb of placements.pdb
+C:\Users\nikso\source\repos\numb of placements\numb of placements\obj\Debug\numb of placements.csprojAssemblyReference.cache
+C:\Users\nikso\source\repos\numb of placements\numb of placements\obj\Debug\numb_of_placements.Form1.resources
+C:\Users\nikso\source\repos\numb of placements\numb of placements\obj\Debug\numb_of_placements.Properties.Resources.resources
+C:\Users\nikso\source\repos\numb of placements\numb of placements\obj\Debug\numb of placements.csproj.GenerateResource.cache
+C:\Users\nikso\source\repos\numb of placements\numb of placements\obj\Debug\numb of placements.csproj.CoreCompileInputs.cache
+C:\Users\nikso\source\repos\numb of placements\numb of placements\obj\Debug\numb of placements.exe
+C:\Users\nikso\source\repos\numb of placements\numb of placements\obj\Debug\numb of placements.pdb

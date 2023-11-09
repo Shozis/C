@@ -1,0 +1,10 @@
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\obj\Debug\numb of permutations.csprojAssemblyReference.cache
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\obj\Debug\numb_of_permutations.Form1.resources
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\obj\Debug\numb_of_permutations.Properties.Resources.resources
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\obj\Debug\numb of permutations.csproj.GenerateResource.cache
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\obj\Debug\numb of permutations.csproj.CoreCompileInputs.cache
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\bin\Debug\numb of permutations.exe.config
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\bin\Debug\numb of permutations.exe
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\bin\Debug\numb of permutations.pdb
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\obj\Debug\numb of permutations.exe
+C:\Users\nikso\source\repos\numb of permutations\numb of permutations\obj\Debug\numb of permutations.pdb

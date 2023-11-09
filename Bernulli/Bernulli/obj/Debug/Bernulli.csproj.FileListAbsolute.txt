@@ -1,0 +1,10 @@
+C:\Users\nikso\source\repos\Bernulli\Bernulli\bin\Debug\Bernulli.exe.config
+C:\Users\nikso\source\repos\Bernulli\Bernulli\bin\Debug\Bernulli.exe
+C:\Users\nikso\source\repos\Bernulli\Bernulli\bin\Debug\Bernulli.pdb
+C:\Users\nikso\source\repos\Bernulli\Bernulli\obj\Debug\Bernulli.csprojAssemblyReference.cache
+C:\Users\nikso\source\repos\Bernulli\Bernulli\obj\Debug\Bernulli.Form1.resources
+C:\Users\nikso\source\repos\Bernulli\Bernulli\obj\Debug\Bernulli.Properties.Resources.resources
+C:\Users\nikso\source\repos\Bernulli\Bernulli\obj\Debug\Bernulli.csproj.GenerateResource.cache
+C:\Users\nikso\source\repos\Bernulli\Bernulli\obj\Debug\Bernulli.csproj.CoreCompileInputs.cache
+C:\Users\nikso\source\repos\Bernulli\Bernulli\obj\Debug\Bernulli.exe
+C:\Users\nikso\source\repos\Bernulli\Bernulli\obj\Debug\Bernulli.pdb
